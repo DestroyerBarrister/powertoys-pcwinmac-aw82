@@ -1,4 +1,4 @@
-# 
+# Lightweight PowerToys scripts for Mac OS | Elite PowerToys scripts for PC Windows. Featuring service optimizer and disk space analysis — optimized for maximum performance on every platform.
 
 
 
